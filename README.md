@@ -1,6 +1,7 @@
 # veille
 
 
+## Mes trucs ♫
 * https://www.webdesignertrends.com/2020/01/portfolios-creatifs-exemples/  || Portfilio
 * https://www.toptal.com/designers/typography/web-typography-infographic || Typo
 * https://uxplanet.org/10-tips-on-typography-in-web-design-13a378f4aa0d ||  Typo https://uxplanet.org/top-ui-ux-design-inspiration-89-9bcc93dd4b7e || Design annimation
@@ -13,5 +14,8 @@
 
 
 
-## Projets présenté par le prof 
+## Trucs présenté par le prof ♦
+* https://stephaniewalter.design/#about
+
+## Trucs des autres ☼
 * https://stephaniewalter.design/#about
