@@ -9,3 +9,9 @@
 * https://uxdesign.cc/9-simple-tips-to-improve-your-ui-designs-fast-377c5113ac82
 * https://uxdesign.cc/mobile-ux-design-trends-to-watch-out-for-in-2020-5a27270ad0ec
 * https://uxdesign.cc/mobile-ux-design-trends-to-watch-out-for-in-2020-5a27270ad0ec
+
+
+
+
+## Projets présenté par le prof 
+* https://stephaniewalter.design/#about
