@@ -18,4 +18,4 @@
 * https://stephaniewalter.design/#about
 
 ## Trucs des autres ☼
-* https://stephaniewalter.design/#about
+
